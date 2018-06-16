@@ -2,7 +2,7 @@
   "Host": {
     "ProfitTrailerVersion2": "true",
     "ProfitTrailerFolder1": "Full path Name goes here", // add your in one or more PT folders below, where ths application.properties file is. Note that windows users must add \\ in between the folders, NOT \
-    "ProfitTrailerApiEndPoint1": "http://localhost:8083/",
+    "ProfitTrailerApiEndPoint1": "http://localhost:8081/",
     "ServerUrls": "http://localhost:5010",
     "HostName": "Name your Feeder", // the name that is used on telegram messages
     "LicenseKey": "Feeder Licence Key goes here", // License key for PT Feeder
